@@ -82,6 +82,10 @@
             <a href="https://shadfoundation.org.pk/donate" target="_blank">
                 Flood Relief Appeal – Dain Valley needs your urgent support. Donate now to provide food, shelter, clean water & medical aid.
             </a>
+            <span class="blink">Update!</span> 
+            <a href="https://shadfoundation.org.pk/girls-hostel-admissions" target="_blank">
+                Admissions Open 2025 | Shad Foundation Girls Hostels in Islamabad, Rawalpindi, and Chitral
+            </a>
         </div>
     </div>
 </div>
